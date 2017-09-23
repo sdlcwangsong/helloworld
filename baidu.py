@@ -6,7 +6,6 @@ import urllib
 import time,json
 import os
 print("hello1")
-#l
 print("workd")
 browser = webdriver.Chrome()
 browser.get("https://www.baidu.com/")
