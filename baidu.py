@@ -5,9 +5,7 @@ from selenium.webdriver.common.keys import Keys
 import urllib
 import time,json
 import os
-print("hello1")
-#l
-print("workd")
+print("hllo")
 browser = webdriver.Chrome()
 browser.get("https://www.baidu.com/")
 browser.find_element_by_css_selector("#u1 .lb").click()
