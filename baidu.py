@@ -5,7 +5,6 @@ from selenium.webdriver.common.keys import Keys
 import urllib
 import time,json
 import os
-print("hello1")
 print("workd")
 browser = webdriver.Chrome()
 browser.get("https://www.baidu.com/")
